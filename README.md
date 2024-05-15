@@ -5,10 +5,10 @@
 Proyek ini bertujuan untuk menganalisis apakah sebuah dataset memiliki distribusi normal atau tidak. Distribusi normal sangat penting dalam statistika karena banyak metode statistik yang bergantung pada asumsi bahwa data berasal dari distribusi normal. Oleh karena itu, mengetahui apakah data kita memiliki distribusi normal atau tidak merupakan langkah awal yang penting dalam analisis data.
 
 **Analisis dilakukan menggunakan beberapa tes statistik yang umum digunakan dari pustaka `scipy.stats`**
--shapiro
--normaltest
--kstest
--jarque_bera
+- shapiro
+- normaltest
+- kstest
+- jarque_bera
 Tes statistik ini digunakan untuk menguji apakah sampel data kita berasal dari distribusi normal.
 
 
