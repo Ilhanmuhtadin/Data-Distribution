@@ -5,10 +5,10 @@
 Proyek ini bertujuan untuk menganalisis apakah sebuah dataset memiliki distribusi normal atau tidak. Distribusi normal sangat penting dalam statistika karena banyak metode statistik yang bergantung pada asumsi bahwa data berasal dari distribusi normal. Oleh karena itu, mengetahui apakah data kita memiliki distribusi normal atau tidak merupakan langkah awal yang penting dalam analisis data.
 
 **Analisis dilakukan menggunakan beberapa tes statistik yang umum digunakan dari pustaka `scipy.stats`**
--  Shapiro-Wilk Test: Test normalitas yang digunakan untuk menguji apakah sampel data berasal dari distribusi normal.
--  D'Agostino's K-squared Test: Test normalitas yang menguji apakah sampel data berasal dari distribusi normal.
--  Kolmogorov-Smirnov Test: Test yang digunakan untuk membandingkan dua sampel data, atau untuk menguji apakah sampel data berasal dari distribusi tertentu.
--  Jarque-Bera Test: Test yang digunakan untuk menguji apakah sampel data memiliki kemiringan dan kurtosis yang sesuai dengan distribusi normal.
+-shapiro
+-normaltest
+-kstest
+-jarque_bera
 Tes statistik ini digunakan untuk menguji apakah sampel data kita berasal dari distribusi normal.
 
 
