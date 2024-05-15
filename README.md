@@ -9,6 +9,7 @@ Proyek ini bertujuan untuk menganalisis apakah sebuah dataset memiliki distribus
 - normaltest
 - kstest
 - jarque_bera
+  
 Tes statistik ini digunakan untuk menguji apakah sampel data kita berasal dari distribusi normal.
 
 
